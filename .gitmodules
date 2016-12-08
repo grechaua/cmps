@@ -1,0 +1,6 @@
+[submodule "ms_1"]
+	path = ms_1
+	url = git@github.com:grechaua/ms_1.git
+[submodule "ms_2"]
+	path = ms_2
+	url = git@github.com:grechaua/ms_2.git
